@@ -1,0 +1,3 @@
+Image generation AI - https://lexica.art
+Text Generative/completion AI - https://chat.openai.com
+Text to Image AI - https://stablediffusionweb.com
